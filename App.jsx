@@ -1,3 +1,4 @@
+//Está no expo, porque não esta rodando no VsCode
 //import React from "react";
 //function App(){return <div> Olá mundo! </div>}
 
